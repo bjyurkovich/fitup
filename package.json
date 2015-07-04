@@ -1,0 +1,12 @@
+{
+	"name" : "FlipFone",
+	"description" : "application",
+	"version" : "0.0.1",
+	"dependencies" : {
+		"express" : "latest",
+		"passport" : "latest",
+		"passport-http" : "latest",
+		"mysql" : "latest",
+		"body-parser" : "latest"
+	}
+}
